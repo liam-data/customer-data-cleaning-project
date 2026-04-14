@@ -1,0 +1,9 @@
+customer_id,name,email,phone,city,purchase_amount
+1,alice smith,ALICE@email.com,555-123-4567,new york,120
+2,Bob Jones,bob@email.com,5551234567,New York,200
+3,alice smith,ALICE@email.com,555-123-4567,new york,120
+4,   Carol White   ,carol@email,555.222.3333,los angeles,150
+5,David Brown,,(555) 888-9999,Chicago,175
+6,Eve Black,eve@email.com,,chicago,
+7,Frank Green,frank@email.com,555-777-1212,Houston,300
+8,Grace Lee,grace@email.com,5557771212,houston,300
